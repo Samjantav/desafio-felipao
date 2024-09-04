@@ -30,7 +30,7 @@ class Heroi {
   }
   
   // Criando um objeto Heroi
-  const meuHeroi = new Heroi('Aragorn', 30, 'guerreiro');
+  const meuHeroi = new Heroi('tyrion Lenister', 27, 'guerreiro');
   
   // Chamando o método atacar
-  meuHeroi.atacar(); // Saída: O guerreiro Aragorn atacou usando espada
+  meuHeroi.atacar(); 
